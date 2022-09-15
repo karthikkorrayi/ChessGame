@@ -1,0 +1,6 @@
+.App{
+  display: grid;
+  place-content: center;
+  height: 150vh;
+  background-color: black;
+}
